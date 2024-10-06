@@ -21,7 +21,7 @@ The model significantly improves the detection of breast cancer, contributing to
 ## Steps to Build a Machine Learning Model for Breast Cancer Diagnosis Using Google Colab
 
 ### Step 1: Access Google Colab
-- Open your web browser and navigate to [Google Colab](https://colab.research.google.com).
+- Open your web browser and navigate to [Google Colab](https://colab.research.google.com/drive/1pMqAQYSHTHfkL9IlnLir5GCciaFSA2es).
 - Sign in with your Google account if prompted.
 
 ### Step 2: Create a New Notebook
