@@ -1,4 +1,5 @@
-# Python-Project: Machine Learning Model To diagnose Breast Cancer
+# Python-Project: 
+## Machine Learning Model To diagnose Breast Cancer
 ### "This repository contains all the key documents related to this project."
 ## Project Overview
 This project focuses on developing a machine learning model for classifying breast cancer tumors as benign or malignant. Utilizing various algorithms and data analysis techniques, the model aims to enhance early diagnosis, thereby supporting predictive analytics in healthcare.
